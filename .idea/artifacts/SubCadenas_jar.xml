@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SubCadenas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SubCadenas_jar</output-path>
+    <root id="archive" name="SubCadenas.jar">
+      <element id="module-output" name="SubCadenas" />
+    </root>
+  </artifact>
+</component>
